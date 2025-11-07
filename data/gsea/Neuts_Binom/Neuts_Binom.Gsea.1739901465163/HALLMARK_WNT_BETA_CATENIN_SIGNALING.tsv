@@ -1,0 +1,17 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TP53	tumor protein p53 [Source:HGNC Symbol;Acc:HGNC:11998]	129	0.342636376619339	0.1058014	Yes	
+row_1	DKK1	dickkopf WNT signaling pathway inhibitor 1 [Source:HGNC Symbol;Acc:HGNC:2891]	423	0.239059716463089	0.1344795	Yes	
+row_2	HDAC2	histone deacetylase 2 [Source:HGNC Symbol;Acc:HGNC:4853]	473	0.22948044538497925	0.21365602	Yes	
+row_3	MYC	MYC proto-oncogene, bHLH transcription factor [Source:HGNC Symbol;Acc:HGNC:7553]	660	0.19879445433616638	0.25032336	Yes	
+row_4	DKK4	dickkopf WNT signaling pathway inhibitor 4 [Source:HGNC Symbol;Acc:HGNC:2894]	1000	0.15904051065444946	0.23736428	No	
+row_5	ADAM17	ADAM metallopeptidase domain 17 [Source:HGNC Symbol;Acc:HGNC:195]	2038	0.037940774112939835	0.021658128	No	
+row_6	GNAI1	G protein subunit alpha i1 [Source:HGNC Symbol;Acc:HGNC:4384]	2053	0.03629297763109207	0.03279019	No	
+row_7	JAG2	jagged canonical Notch ligand 2 [Source:HGNC Symbol;Acc:HGNC:6189]	2204	0.02140861377120018	0.007837652	No	
+row_8	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	2452	-0.007669493556022644	-0.044077523	No	
+row_9	DVL2	dishevelled segment polarity protein 2 [Source:HGNC Symbol;Acc:HGNC:3086]	2587	-0.02530856803059578	-0.063941374	No	
+row_10	DLL1	delta like canonical Notch ligand 1 [Source:HGNC Symbol;Acc:HGNC:2908]	3047	-0.07859182357788086	-0.13516158	No	
+row_11	CUL1	cullin 1 [Source:HGNC Symbol;Acc:HGNC:2551]	3079	-0.0825272724032402	-0.109662525	No	
+row_12	AXIN2	axin 2 [Source:HGNC Symbol;Acc:HGNC:904]	4062	-0.2023237943649292	-0.2486168	No	
+row_13	JAG1	jagged canonical Notch ligand 1 [Source:HGNC Symbol;Acc:HGNC:6188]	4105	-0.21400099992752075	-0.17395946	No	
+row_14	KAT2A	lysine acetyltransferase 2A [Source:HGNC Symbol;Acc:HGNC:4201]	4356	-0.29640883207321167	-0.11320952	No	
+row_15	NOTCH1	notch receptor 1 [Source:HGNC Symbol;Acc:HGNC:7881]	4449	-0.3762403726577759	0.014009397	No	

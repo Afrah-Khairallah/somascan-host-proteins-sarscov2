@@ -1,0 +1,44 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	JAM3	junctional adhesion molecule 3 [Source:HGNC Symbol;Acc:HGNC:15532]	353	0.25565585494041443	-0.033983544	No	
+row_1	TOPBP1	DNA topoisomerase II binding protein 1 [Source:HGNC Symbol;Acc:HGNC:17008]	496	0.22547881305217743	-0.026073715	No	
+row_2	IDE	insulin degrading enzyme [Source:HGNC Symbol;Acc:HGNC:5381]	593	0.21085482835769653	-0.01044642	No	
+row_3	YBX2	Y-box binding protein 2 [Source:HGNC Symbol;Acc:HGNC:17948]	596	0.21064749360084534	0.026173474	No	
+row_4	PEBP1	phosphatidylethanolamine binding protein 1 [Source:HGNC Symbol;Acc:HGNC:8630]	704	0.1920367330312729	0.036028527	No	
+row_5	GSTM3	glutathione S-transferase mu 3 [Source:HGNC Symbol;Acc:HGNC:4635]	933	0.16607467830181122	0.014245724	No	
+row_6	AGFG1	ArfGAP with FG repeats 1 [Source:HGNC Symbol;Acc:HGNC:5175]	953	0.16399872303009033	0.038853772	No	
+row_7	CDKN3	cyclin dependent kinase inhibitor 3 [Source:HGNC Symbol;Acc:HGNC:1791]	982	0.16091471910476685	0.06090571	No	
+row_8	BRAF	B-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1097]	1109	0.14710687100887299	0.058603965	No	
+row_9	BUB1	BUB1 mitotic checkpoint serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1148]	1530	0.09740590304136276	-0.0182154	No	
+row_10	TSN	translin [Source:HGNC Symbol;Acc:HGNC:12379]	1548	0.09606018662452698	-0.0051149647	No	
+row_11	PGK2	phosphoglycerate kinase 2 [Source:HGNC Symbol;Acc:HGNC:8898]	1672	0.08052933216094971	-0.018461118	No	
+row_12	TALDO1	transaldolase 1 [Source:HGNC Symbol;Acc:HGNC:11559]	1716	0.0749078020453453	-0.014899393	No	
+row_13	ART3	ADP-ribosyltransferase 3 (inactive) [Source:HGNC Symbol;Acc:HGNC:725]	1747	0.07139436155557632	-0.009047644	No	
+row_14	HSPA1L	heat shock protein family A (Hsp70) member 1 like [Source:HGNC Symbol;Acc:HGNC:5234]	1855	0.05842488259077072	-0.022704067	No	
+row_15	GAPDHS	glyceraldehyde-3-phosphate dehydrogenase, spermatogenic [Source:HGNC Symbol;Acc:HGNC:24864]	1937	0.04989197105169296	-0.032045458	No	
+row_16	PRKAR2A	protein kinase cAMP-dependent type II regulatory subunit alpha [Source:HGNC Symbol;Acc:HGNC:9391]	2075	0.034158892929553986	-0.05668334	No	
+row_17	CFTR	CF transmembrane conductance regulator [Source:HGNC Symbol;Acc:HGNC:1884]	2129	0.02958199568092823	-0.063334666	No	
+row_18	ACRV1	acrosomal vesicle protein 1 [Source:HGNC Symbol;Acc:HGNC:127]	2480	-0.011300431564450264	-0.13964592	No	
+row_19	HBZ	hemoglobin subunit zeta [Source:HGNC Symbol;Acc:HGNC:4835]	2510	-0.015028147958219051	-0.14348914	No	
+row_20	GAD1	glutamate decarboxylase 1 [Source:HGNC Symbol;Acc:HGNC:4092]	2650	-0.03379414975643158	-0.16863863	No	
+row_21	IL12RB2	interleukin 12 receptor subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:5972]	2790	-0.04979349672794342	-0.19097275	No	
+row_22	ZPBP	zona pellucida binding protein [Source:HGNC Symbol;Acc:HGNC:15662]	2903	-0.0628606379032135	-0.20496717	No	
+row_23	CHFR	checkpoint with forkhead and ring finger domains [Source:HGNC Symbol;Acc:HGNC:20455]	2932	-0.0659865215420723	-0.1996196	No	
+row_24	CST8	cystatin 8 [Source:HGNC Symbol;Acc:HGNC:2480]	2999	-0.0723525658249855	-0.20165294	No	
+row_25	MLF1	myeloid leukemia factor 1 [Source:HGNC Symbol;Acc:HGNC:7125]	3106	-0.08662942051887512	-0.21012254	No	
+row_26	TSSK2	testis specific serine kinase 2 [Source:HGNC Symbol;Acc:HGNC:11401]	3115	-0.08729236572980881	-0.19655155	No	
+row_27	CRISP2	cysteine rich secretory protein 2 [Source:HGNC Symbol;Acc:HGNC:12024]	3313	-0.10868865251541138	-0.22149736	Yes	
+row_28	DDX25	DEAD-box helicase 25 [Source:HGNC Symbol;Acc:HGNC:18698]	3364	-0.11426083743572235	-0.21257673	Yes	
+row_29	AURKA	aurora kinase A [Source:HGNC Symbol;Acc:HGNC:11393]	3371	-0.11501682549715042	-0.19367968	Yes	
+row_30	ADCYAP1	adenylate cyclase activating polypeptide 1 [Source:HGNC Symbol;Acc:HGNC:241]	3420	-0.12106390297412872	-0.1831145	Yes	
+row_31	POMC	proopiomelanocortin [Source:HGNC Symbol;Acc:HGNC:9201]	3690	-0.1533716320991516	-0.2163049	Yes	
+row_32	TNNI3	troponin I3, cardiac type [Source:HGNC Symbol;Acc:HGNC:11947]	3818	-0.16724643111228943	-0.21528642	Yes	
+row_33	CAMK4	calcium/calmodulin dependent protein kinase IV [Source:HGNC Symbol;Acc:HGNC:1464]	3834	-0.16889658570289612	-0.18892165	Yes	
+row_34	LDHC	lactate dehydrogenase C [Source:HGNC Symbol;Acc:HGNC:6544]	3864	-0.17249487340450287	-0.16505569	Yes	
+row_35	CSNK2A2	casein kinase 2 alpha 2 [Source:HGNC Symbol;Acc:HGNC:2459]	3880	-0.17478229105472565	-0.13765521	Yes	
+row_36	SCG3	secretogranin III [Source:HGNC Symbol;Acc:HGNC:13707]	3902	-0.1774163544178009	-0.111133516	Yes	
+row_37	PCSK1N	proprotein convertase subtilisin/kexin type 1 inhibitor [Source:HGNC Symbol;Acc:HGNC:17301]	3991	-0.19017784297466278	-0.09735501	Yes	
+row_38	TCP11	t-complex 11 [Source:HGNC Symbol;Acc:HGNC:11658]	4071	-0.20544511079788208	-0.07887652	Yes	
+row_39	CLGN	calmegin [Source:HGNC Symbol;Acc:HGNC:2060]	4203	-0.2378232479095459	-0.066333614	Yes	
+row_40	SCG5	secretogranin V [Source:HGNC Symbol;Acc:HGNC:10816]	4205	-0.23786407709121704	-0.024700742	Yes	
+row_41	CCNB2	cyclin B2 [Source:HGNC Symbol;Acc:HGNC:1580]	4210	-0.23861457407474518	0.016393049	Yes	
+row_42	ACE	angiotensin I converting enzyme [Source:HGNC Symbol;Acc:HGNC:2707]	4343	-0.289510577917099	0.037807584	Yes	

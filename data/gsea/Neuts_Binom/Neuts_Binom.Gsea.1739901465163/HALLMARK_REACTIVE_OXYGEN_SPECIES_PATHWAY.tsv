@@ -1,0 +1,25 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FTL	ferritin light chain [Source:HGNC Symbol;Acc:HGNC:3999]	3	0.5844370126724243	0.15684484	Yes	
+row_1	TXNRD1	thioredoxin reductase 1 [Source:HGNC Symbol;Acc:HGNC:12437]	170	0.3127277195453644	0.20414962	Yes	
+row_2	ATOX1	antioxidant 1 copper chaperone [Source:HGNC Symbol;Acc:HGNC:798]	313	0.2670023739337921	0.24447724	Yes	
+row_3	GCLM	glutamate-cysteine ligase modifier subunit [Source:HGNC Symbol;Acc:HGNC:4312]	582	0.2122204303741455	0.24197182	Yes	
+row_4	PDLIM1	PDZ and LIM domain 1 [Source:HGNC Symbol;Acc:HGNC:2067]	631	0.20345279574394226	0.2861121	Yes	
+row_5	CDKN2D	cyclin dependent kinase inhibitor 2D [Source:HGNC Symbol;Acc:HGNC:1790]	889	0.17033246159553528	0.27476782	Yes	
+row_6	GSR	glutathione-disulfide reductase [Source:HGNC Symbol;Acc:HGNC:4623]	909	0.16847234964370728	0.31594065	Yes	
+row_7	G6PD	glucose-6-phosphate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4057]	916	0.16771042346954346	0.35980412	Yes	
+row_8	GLRX	glutaredoxin [Source:HGNC Symbol;Acc:HGNC:4330]	1113	0.14634177088737488	0.3555828	Yes	
+row_9	NQO1	NAD(P)H quinone dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:2874]	1152	0.14114372432231903	0.38515767	Yes	
+row_10	GLRX2	glutaredoxin 2 [Source:HGNC Symbol;Acc:HGNC:16065]	1159	0.14037582278251648	0.4216541	Yes	
+row_11	PRDX6	peroxiredoxin 6 [Source:HGNC Symbol;Acc:HGNC:16753]	1402	0.11193383485078812	0.39791214	No	
+row_12	MPO	myeloperoxidase [Source:HGNC Symbol;Acc:HGNC:7218]	1735	0.07244110852479935	0.34347737	No	
+row_13	CAT	catalase [Source:HGNC Symbol;Acc:HGNC:1516]	2044	0.036997973918914795	0.28483662	No	
+row_14	PRDX1	peroxiredoxin 1 [Source:HGNC Symbol;Acc:HGNC:9352]	2126	0.029720207676291466	0.2748025	No	
+row_15	SOD1	superoxide dismutase 1 [Source:HGNC Symbol;Acc:HGNC:11179]	2146	0.0277616735547781	0.27805203	No	
+row_16	MSRA	methionine sulfoxide reductase A [Source:HGNC Symbol;Acc:HGNC:7377]	2312	0.008057499304413795	0.24346712	No	
+row_17	PRDX4	peroxiredoxin 4 [Source:HGNC Symbol;Acc:HGNC:17169]	2473	-0.010259414091706276	0.21058948	No	
+row_18	SRXN1	sulfiredoxin 1 [Source:HGNC Symbol;Acc:HGNC:16132]	2683	-0.037413667887449265	0.17411469	No	
+row_19	HMOX2	heme oxygenase 2 [Source:HGNC Symbol;Acc:HGNC:5014]	2744	-0.04489380493760109	0.17284814	No	
+row_20	PRNP	prion protein [Source:HGNC Symbol;Acc:HGNC:9449]	3082	-0.08322186768054962	0.120205075	No	
+row_21	TXN	thioredoxin [Source:HGNC Symbol;Acc:HGNC:12435]	3221	-0.09828908741474152	0.11595341	No	
+row_22	NDUFB4	NADH:ubiquinone oxidoreductase subunit B4 [Source:HGNC Symbol;Acc:HGNC:7699]	4080	-0.2066144049167633	-0.019495286	No	
+row_23	SOD2	superoxide dismutase 2 [Source:HGNC Symbol;Acc:HGNC:11180]	4478	-0.4285798668861389	0.007573981	No	
