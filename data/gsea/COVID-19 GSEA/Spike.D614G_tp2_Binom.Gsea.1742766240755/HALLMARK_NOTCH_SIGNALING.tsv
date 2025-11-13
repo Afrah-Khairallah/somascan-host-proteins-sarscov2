@@ -1,0 +1,15 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SAP30	Sin3A associated protein 30 [Source:HGNC Symbol;Acc:HGNC:10532]	1645	0.06793520599603653	-0.31320083	No	
+row_1	ST3GAL6	ST3 beta-galactoside alpha-2,3-sialyltransferase 6 [Source:HGNC Symbol;Acc:HGNC:18080]	1700	0.0631645992398262	-0.27991176	No	
+row_2	ARRB1	arrestin beta 1 [Source:HGNC Symbol;Acc:HGNC:711]	1757	0.057724788784980774	-0.25095224	No	
+row_3	DTX1	deltex E3 ubiquitin ligase 1 [Source:HGNC Symbol;Acc:HGNC:3060]	2333	0.011079834774136543	-0.36948675	No	
+row_4	WNT5A	Wnt family member 5A [Source:HGNC Symbol;Acc:HGNC:12784]	2369	0.007500756997615099	-0.3718208	No	
+row_5	SKP1	S-phase kinase associated protein 1 [Source:HGNC Symbol;Acc:HGNC:10899]	2472	-9.857640834525228E-4	-0.39354834	No	
+row_6	PRKCA	protein kinase C alpha [Source:HGNC Symbol;Acc:HGNC:9393]	2521	-0.004377837758511305	-0.40097442	No	
+row_7	DLL1	delta like canonical Notch ligand 1 [Source:HGNC Symbol;Acc:HGNC:2908]	3128	-0.06070638820528984	-0.4908418	Yes	
+row_8	NOTCH2	notch receptor 2 [Source:HGNC Symbol;Acc:HGNC:7882]	3366	-0.0893658921122551	-0.4790642	Yes	
+row_9	JAG1	jagged canonical Notch ligand 1 [Source:HGNC Symbol;Acc:HGNC:6188]	3423	-0.09569603949785233	-0.4229538	Yes	
+row_10	CUL1	cullin 1 [Source:HGNC Symbol;Acc:HGNC:2551]	3639	-0.12189409136772156	-0.383079	Yes	
+row_11	KAT2A	lysine acetyltransferase 2A [Source:HGNC Symbol;Acc:HGNC:4201]	4237	-0.21941238641738892	-0.35748643	Yes	
+row_12	NOTCH3	notch receptor 3 [Source:HGNC Symbol;Acc:HGNC:7883]	4380	-0.2668737471103668	-0.19789127	Yes	
+row_13	NOTCH1	notch receptor 1 [Source:HGNC Symbol;Acc:HGNC:7881]	4464	-0.33181214332580566	0.021112809	Yes	

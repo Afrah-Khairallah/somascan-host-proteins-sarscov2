@@ -1,0 +1,19 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	VEGFA	vascular endothelial growth factor A [Source:HGNC Symbol;Acc:HGNC:12680]	737	0.1887035369873047	-0.08969805	No	
+row_1	RASA1	RAS p21 protein activator 1 [Source:HGNC Symbol;Acc:HGNC:9871]	1601	0.08916210383176804	-0.24660052	No	
+row_2	NRP1	neuropilin 1 [Source:HGNC Symbol;Acc:HGNC:8004]	2001	0.04174984619021416	-0.3189357	No	
+row_3	PLG	plasminogen [Source:HGNC Symbol;Acc:HGNC:9071]	2010	0.04095366597175598	-0.30459863	No	
+row_4	NRP2	neuropilin 2 [Source:HGNC Symbol;Acc:HGNC:8005]	2285	0.01131405495107174	-0.36110276	No	
+row_5	ETS2	ETS proto-oncogene 2, transcription factor [Source:HGNC Symbol;Acc:HGNC:3489]	2394	-0.001110645942389965	-0.38469237	No	
+row_6	OPHN1	oligophrenin 1 [Source:HGNC Symbol;Acc:HGNC:8148]	2520	-0.016397612169384956	-0.40604797	No	
+row_7	ACHE	acetylcholinesterase (Cartwright blood group) [Source:HGNC Symbol;Acc:HGNC:108]	2990	-0.07158516347408295	-0.4822147	No	
+row_8	SHH	sonic hedgehog signaling molecule [Source:HGNC Symbol;Acc:HGNC:10848]	3059	-0.08012871444225311	-0.46580896	No	
+row_9	CRMP1	collapsin response mediator protein 1 [Source:HGNC Symbol;Acc:HGNC:2365]	3086	-0.08395291864871979	-0.43855456	No	
+row_10	UNC5C	unc-5 netrin receptor C [Source:HGNC Symbol;Acc:HGNC:12569]	3660	-0.1505468189716339	-0.5067837	Yes	
+row_11	ADGRG1	adhesion G protein-coupled receptor G1 [Source:HGNC Symbol;Acc:HGNC:4512]	3777	-0.16233254969120026	-0.46870622	Yes	
+row_12	DPYSL2	dihydropyrimidinase like 2 [Source:HGNC Symbol;Acc:HGNC:3014]	3836	-0.16909830272197723	-0.41506293	Yes	
+row_13	SLIT1	slit guidance ligand 1 [Source:HGNC Symbol;Acc:HGNC:11085]	4106	-0.21422621607780457	-0.3906012	Yes	
+row_14	NRCAM	neuronal cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:7994]	4197	-0.2369019240140915	-0.31739366	Yes	
+row_15	VLDLR	very low density lipoprotein receptor [Source:HGNC Symbol;Acc:HGNC:12698]	4231	-0.24524663388729095	-0.22822142	Yes	
+row_16	L1CAM	L1 cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:6470]	4410	-0.33543336391448975	-0.1358154	Yes	
+row_17	CNTFR	ciliary neurotrophic factor receptor [Source:HGNC Symbol;Acc:HGNC:2170]	4463	-0.40221062302589417	0.010901121	Yes	

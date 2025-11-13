@@ -1,0 +1,17 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DCTPP1	dCTP pyrophosphatase 1 [Source:HGNC Symbol;Acc:HGNC:28777]	40	0.3847646415233612	0.22914405	Yes	
+row_1	SORD	sorbitol dehydrogenase [Source:HGNC Symbol;Acc:HGNC:11184]	114	0.28329819440841675	0.3882788	Yes	
+row_2	HSPE1	heat shock protein family E (Hsp10) member 1 [Source:HGNC Symbol;Acc:HGNC:5269]	415	0.18330153822898865	0.43562898	Yes	
+row_3	HSPD1	heat shock protein family D (Hsp60) member 1 [Source:HGNC Symbol;Acc:HGNC:5261]	641	0.15572209656238556	0.4824252	Yes	
+row_4	NIP7	nucleolar pre-rRNA processing protein NIP7 [Source:HGNC Symbol;Acc:HGNC:24328]	1377	0.08888209611177444	0.3756752	No	
+row_5	PRMT3	protein arginine methyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:30163]	1398	0.08768174052238464	0.42549863	No	
+row_6	CBX3	chromobox 3 [Source:HGNC Symbol;Acc:HGNC:1553]	1658	0.06633499264717102	0.40953562	No	
+row_7	RABEPK	Rab9 effector protein with kelch motifs [Source:HGNC Symbol;Acc:HGNC:16896]	2176	0.02258642017841339	0.30975208	No	
+row_8	PES1	pescadillo ribosomal biogenesis factor 1 [Source:HGNC Symbol;Acc:HGNC:8848]	2240	0.01803077943623066	0.30704123	No	
+row_9	NPM1	nucleophosmin 1 [Source:HGNC Symbol;Acc:HGNC:7910]	2379	0.006478975061327219	0.2806849	No	
+row_10	PUS1	pseudouridine synthase 1 [Source:HGNC Symbol;Acc:HGNC:15508]	2577	-0.009470787830650806	0.24319744	No	
+row_11	PA2G4	proliferation-associated 2G4 [Source:HGNC Symbol;Acc:HGNC:8550]	2695	-0.018933378159999847	0.22916359	No	
+row_12	NOP16	NOP16 nucleolar protein [Source:HGNC Symbol;Acc:HGNC:26934]	3042	-0.052071623504161835	0.18523794	No	
+row_13	MYC	MYC proto-oncogene, bHLH transcription factor [Source:HGNC Symbol;Acc:HGNC:7553]	3178	-0.06790735572576523	0.19753003	No	
+row_14	PLK1	polo like kinase 1 [Source:HGNC Symbol;Acc:HGNC:9077]	3303	-0.08096043020486832	0.22031459	No	
+row_15	HK2	hexokinase 2 [Source:HGNC Symbol;Acc:HGNC:4923]	3380	-0.09060722589492798	0.25962594	No	

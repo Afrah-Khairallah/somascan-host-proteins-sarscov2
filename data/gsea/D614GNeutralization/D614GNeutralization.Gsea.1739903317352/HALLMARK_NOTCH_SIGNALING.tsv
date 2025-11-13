@@ -1,0 +1,15 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ARRB1	arrestin beta 1 [Source:HGNC Symbol;Acc:HGNC:711]	29	0.5663344264030457	0.15990122	No	
+row_1	PRKCA	protein kinase C alpha [Source:HGNC Symbol;Acc:HGNC:9393]	463	0.4145488142967224	0.18542133	No	
+row_2	ST3GAL6	ST3 beta-galactoside alpha-2,3-sialyltransferase 6 [Source:HGNC Symbol;Acc:HGNC:18080]	1217	0.1596451848745346	0.06494273	No	
+row_3	SAP30	Sin3A associated protein 30 [Source:HGNC Symbol;Acc:HGNC:10532]	2191	-0.028286045417189598	-0.1430192	No	
+row_4	DTX1	deltex E3 ubiquitin ligase 1 [Source:HGNC Symbol;Acc:HGNC:3060]	2365	-0.04962082952260971	-0.16689727	No	
+row_5	CUL1	cullin 1 [Source:HGNC Symbol;Acc:HGNC:2551]	2859	-0.0971531867980957	-0.24794076	No	
+row_6	DLL1	delta like canonical Notch ligand 1 [Source:HGNC Symbol;Acc:HGNC:2908]	3490	-0.16402260959148407	-0.3397942	Yes	
+row_7	WNT5A	Wnt family member 5A [Source:HGNC Symbol;Acc:HGNC:12784]	3509	-0.16662421822547913	-0.29485324	Yes	
+row_8	SKP1	S-phase kinase associated protein 1 [Source:HGNC Symbol;Acc:HGNC:10899]	3682	-0.1900668740272522	-0.2772564	Yes	
+row_9	NOTCH2	notch receptor 2 [Source:HGNC Symbol;Acc:HGNC:7882]	3766	-0.20202241837978363	-0.2363657	Yes	
+row_10	KAT2A	lysine acetyltransferase 2A [Source:HGNC Symbol;Acc:HGNC:4201]	3866	-0.21862535178661346	-0.19415468	Yes	
+row_11	NOTCH3	notch receptor 3 [Source:HGNC Symbol;Acc:HGNC:7883]	4329	-0.31539222598075867	-0.20420529	Yes	
+row_12	JAG1	jagged canonical Notch ligand 1 [Source:HGNC Symbol;Acc:HGNC:6188]	4465	-0.38654375076293945	-0.12067405	Yes	
+row_13	NOTCH1	notch receptor 1 [Source:HGNC Symbol;Acc:HGNC:7881]	4498	-0.4456488788127899	0.0031118852	Yes	
